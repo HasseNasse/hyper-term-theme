@@ -1,0 +1,30 @@
+{
+    "name": "hyper-term-theme",
+    "displayName": "Hyper Term Theme",
+    "description": "HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI.",
+    "version": "0.0.4",
+    "publisher": "hsnazar",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hyper Term Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hyper Term Black-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icon.png",
+    "keywords": [
+        "hyper black",
+        "hyper term",
+        "Hyper Black",
+        "hyper term black",
+        "hyper"
+    ]
+}
