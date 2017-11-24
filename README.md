@@ -1,10 +1,10 @@
 # Hyper-Dark
 HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI. *Drools on the floor..*
 
-[GitHub repository](https://github.com/HasseNasse/hyper-dark)
+[GitHub repository](https://github.com/HasseNasse/hyper-term-theme)
 
 # CHANGELOG
-[CHANGELOG.MD](https://github.com/HasseNasse/hyper-dark/blob/master/CHANGELOG.md)
+[CHANGELOG.MD](https://github.com/HasseNasse/hyper-term-theme/blob/master/CHANGELOG.md)
 
 # Docs & Contribute  
 1. Install the theme
