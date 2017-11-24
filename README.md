@@ -13,11 +13,7 @@ HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI. *D
 4. Change the following user settings on VS Code:
 ```javascript
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.mouseWheelZoom": true,
-    "editor.fontSize": 13,
     "editor.fontFamily": "Menlo, 'DejaVu Sans Mono', Consolas, 'Lucida Console', monospace",
-    "window.zoomLevel": -1,
     "workbench.colorTheme": "Hyper Term Black",
     "editor.cursorStyle": "block",
     "editor.minimap.enabled": false,
