@@ -1282,6 +1282,13 @@
 		  "settings": {
 			"foreground": "#b267e6"
 		  }
+		},
+		{
+			"name": "csharp type",
+			"scope": "storage.type.cs",
+			"settings": {
+				"foreground": "#e5c07b"
+			}
 		}
 	  ]
 	}

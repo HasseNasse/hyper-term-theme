@@ -2,7 +2,7 @@
     "name": "hyper-term-theme",
     "displayName": "Hyper Term Theme",
     "description": "HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI.",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "hsnazar",
     "engines": {
         "vscode": "^1.18.0"
