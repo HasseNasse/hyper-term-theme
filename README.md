@@ -2,6 +2,7 @@
 
 HyperTerm inspired VSCode theme with vivid syntaxcolors and a pitch black UI. _Drools on the floor.._
 
+![React/JS (Details)](static/js-detail.png)
 ![React/JS](static/js.png)
 
 [GitHub repository](https://github.com/HasseNasse/hyper-term-theme)
